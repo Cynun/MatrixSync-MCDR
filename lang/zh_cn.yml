@@ -21,7 +21,7 @@ matrix_sync:
     start_error: 已在接收房间消息，非重载等特殊情况或手动停止后，不要再次尝试启动！
     stop_error: 关闭房间消息接收器时发生未知错误！
     stop_denied: 请在控制台执行！
-    not_running: 消息同步未在运行！
+    not_running: 房间消息接收器未在运行！
   sync_tips:
     server_stopping: "[!]服务器正在关闭……"
     server_stopped: "[×]服务器已停止运行"
